@@ -20,15 +20,6 @@ Aulas de HTML, CSS e Javascript para o Jonatas Fernandes
 4 - Done! You have a fork of this repo
 
 
-#### The credentials of mongo-express (mongo-db web client)
-
-> User: admin
-
-> Password: pass
-
-
-
-
 ### I am in Telegram
 [![I am in Telegram](https://telegram.org/img/tgme/LogoBig_1x.png?1)](https://telegram.me/tiagofrancafernandes)
 
