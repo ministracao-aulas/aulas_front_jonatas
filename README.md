@@ -1,5 +1,5 @@
 # aulas_front_jonatas
-Aulas de HTML, CSS e Javascript para o Jonatas Fernandes
+Aulas de HTML, CSS e Javascript para o Jonatas Fernandes.
 
 ------------------
 
